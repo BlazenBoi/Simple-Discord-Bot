@@ -1,0 +1,1 @@
+export DISCORD_BOT_TOKEN="NzI5ODgyNjkxOTkzODYyMTk1.XwPaOg.7kBdax-yZoJ0ewIARfnecjAsezU"
